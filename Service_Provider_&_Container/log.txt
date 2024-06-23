@@ -1,0 +1,8 @@
+This is a log message.
+This is a log message.
+This is a log message.
+This is a log message.
+This is a log message.
+This is a log message.
+This is a log message.
+Server Error: MYSQL Database Not Found
